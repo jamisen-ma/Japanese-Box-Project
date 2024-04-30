@@ -1,3 +1,4 @@
+# BoxShogi Specification
 - [Getting Started](#getting-started)
 - [Game Rules](#game-rules)
     - [Overview](#overview)
